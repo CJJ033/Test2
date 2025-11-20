@@ -1,6 +1,8 @@
 # **Test2**
-## Open Source IoT Project
+## _Open Source IoT Project_
 ### ~Welcome!!!~
+<span underline="true">안녕하세요</span>
+
 - HELLO
 - World
   
@@ -8,4 +10,4 @@
 2. Git
    
 - [ ] 완료되지 않은 작업
-- [ ] - [x] 완료된 작업
+- [o] 완료된 작업
